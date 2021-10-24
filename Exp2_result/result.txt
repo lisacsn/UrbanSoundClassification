@@ -1,0 +1,37 @@
+
+=========FOLD1=========
+
+Max validation accuracy: 74.8853 %
+Min validation loss: 1.04075
+=========FOLD2=========
+
+Max validation accuracy: 73.4234 %
+Min validation loss: 0.92858
+=========FOLD3=========
+
+Max validation accuracy: 66.3784 %
+Min validation loss: 1.15149
+=========FOLD4=========
+
+Max validation accuracy: 73.8384 %
+Min validation loss: 0.95283
+=========FOLD5=========
+
+Max validation accuracy: 81.6239 %
+Min validation loss: 0.73356
+=========FOLD6=========
+
+Max validation accuracy: 69.9879 %
+Min validation loss: 1.02773
+=========FOLD7=========
+
+Max validation accuracy: 71.4797 %
+Min validation loss: 0.93605
+=========FOLD8=========
+
+Max validation accuracy: 67.1216 %
+Min validation loss: 1.22712
+=========FOLD9=========
+
+Max validation accuracy: 78.1863 %
+Min validation loss: 0.78052
